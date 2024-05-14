@@ -1,4 +1,4 @@
-SaturnOS is a os modified of lineageOS, im trying to make my own android rom
+SaturnOS is a modified of lineageOS, im trying to make my own android rom
 ===========
 
 Getting started
